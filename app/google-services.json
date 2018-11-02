@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "3465311961",
+    "firebase_url": "https://fcmtest-cfebd.firebaseio.com",
+    "project_id": "fcmtest-cfebd",
+    "storage_bucket": "fcmtest-cfebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3465311961:android:a1adbd9a160cf87a",
+        "android_client_info": {
+          "package_name": "com.example.kelevnor.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3465311961-4433aqsnaah01t8m61b6f9eml34uali4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_lKerChLqTjyJ7wANkQsroYF2QxWlTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
